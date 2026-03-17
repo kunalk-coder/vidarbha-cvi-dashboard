@@ -1,0 +1,14 @@
+﻿,Adaptive_Capacity,CVI_Score,District,Exposure,Sensitivity,Village_Name,lat,lon
+0,0.4,0.9,Nagpur,0.7,0.6,Katol,21.27,78.58
+1,0.3,1,Nagpur,0.5,0.8,Ramtek,21.39,79.32
+2,0.6,0.3,Nagpur,0.4,0.5,Umred,20.85,79.32
+3,0.2,1.1,Amravati,0.8,0.5,Achalpur,21.25,77.5
+4,0.8,-0.3,Amravati,0.2,0.3,Chikhaldara,21.4,77.32
+5,0.5,9.9,Wardha,0.6,0.7,Hinganghat,20.56,78.84
+6,0.4,0.8,Wardha,0.6,0.6,Arvi,20.98,78.22
+7,0.6,8.6,Bhandara,0.4,0.5,Bhandara_City,21.16,79.65
+8,0.5,0.4,Bhandara,0.5,0.4,Tumsar,21.38,79.73
+9,0.3,1.2,Chandrapur,0.7,0.8,Chandrapur_City,19.95,79.29
+10,0.4,5.6,Chandrapur,0.6,0.7,Ballarpur,19.85,79.35
+11,0.7,0,Chandrapur,0.3,0.4,Bhadravati,20.1,79.11
+12,0.1,3.9,Gadchiroli,0.9,0.8,Gadchiroli_City,20.18,79.99
